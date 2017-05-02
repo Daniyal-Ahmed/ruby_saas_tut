@@ -60,3 +60,6 @@ ruby '2.3.0'
 
 # Use Font-Awesome-Sass gem for adding icons
 gem 'font-awesome-sass', '4.6.2'
+
+#Use Hirb for better Database table display in the console
+gem 'hirb', '0.7.3'
