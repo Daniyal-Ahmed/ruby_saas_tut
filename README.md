@@ -1,3 +1,3 @@
 # README
 
-Software-as-a-Service Ruby on Rails App.
+Website for GooseField Capital.
